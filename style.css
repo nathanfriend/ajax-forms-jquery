@@ -1,0 +1,38 @@
+form {
+    background-color: #4a4c4d;
+    height: 380px;
+    padding-left: 10px;
+    padding-right: 19px;
+    padding-top: 25px;
+    min-width: 150px;
+}
+
+input {
+    background-color: #cacaca;
+    font-family: 'Conv_Reef', Sans-Serif;
+    font-size: 1em;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    height: 32px;
+    width: 100%;
+    border: none;
+}
+
+label {
+    color: #d2d2d2;
+    font-family: 'Conv_Reef', Sans-Serif;
+    width: 100%;
+    display: block;
+}
+
+.has-error {
+    background-color: #ff6666;
+}
+
+.alert-success {
+    font-family: 'Conv_Reef', Sans-Serif;
+    font-size: 1em;
+    color: #d2d2d2;
+    text-align: center;
+    padding-top: 30%;
+}
